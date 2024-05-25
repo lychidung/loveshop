@@ -1,0 +1,1 @@
+mix.js('resources/js/frostui.js', 'public/js')
